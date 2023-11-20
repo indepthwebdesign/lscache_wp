@@ -250,6 +250,9 @@ The vast majority of plugins and themes are compatible with LiteSpeed Cache. The
 
 == Changelog ==
 
+= 6.1 - Feb 2024 =
+* 🌱**Database** Clear Orphaned Post Meta.
+
 = 6.0 - Dec 12 2023 =
 * 🌱**Image Optimize** Parallel pull. (⭐ Contributed by Peter Wells #581)
 * 🌱**Cache** CLI Crawler.
